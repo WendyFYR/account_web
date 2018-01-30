@@ -1,0 +1,9 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: account-web
+  buildpack: java_buildpack
+  path: ./target/account-web-1.0-SNAPSHOT.jar
+  memory: 256M
+  random-route: true
