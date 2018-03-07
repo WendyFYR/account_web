@@ -1,4 +1,4 @@
-## Microservice
+### Microservice
 IBM Cloud Microservice Starter for Spring
 
 [![](https://img.shields.io/badge/bluemix-powered-blue.svg)](https://bluemix.net)
