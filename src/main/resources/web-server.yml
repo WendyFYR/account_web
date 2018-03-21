@@ -21,7 +21,7 @@ eureka:
      leaseRenewalIntervalInSeconds: 5   # DO NOT DO THIS IN PRODUCTION
   client:
     serviceUrl:
-      defaultZone: http://10.4.68.204:32256/eureka/
+      defaultZone: http://10.19.37.60:31674/eureka
 
 # HTTP Server
 server:
